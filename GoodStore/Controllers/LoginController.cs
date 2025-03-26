@@ -17,7 +17,6 @@ namespace GoodStore.Controllers
         }
         public IActionResult Login()
         {
-            var a = 1;
             return View();
         }
 
